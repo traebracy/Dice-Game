@@ -1,4 +1,17 @@
-# Dice-Game
-A simple dice game I built while continuing to improve my Python programming skills and understanding of game logic. This project focuses on randomness, player interaction, conditional logic, and creating a program that feels interactive instead of just static calculations.
+# Dice Game
 
-I enjoy building projects that help me strengthen core programming concepts while still being fun to work on, and this was one of those projects.
+This is a simple dice game built in Python.
+
+The project uses randomness, player interaction, and conditional logic to create a small interactive game. I built this while continuing to improve my Python skills and get more comfortable creating programs that respond to the user.
+
+## Concepts Practiced
+
+- Python
+- Random number generation
+- Conditional statements
+- User interaction
+- Basic game logic
+
+## What I Learned
+
+This project helped me practice making a program feel interactive instead of only doing static calculations.
